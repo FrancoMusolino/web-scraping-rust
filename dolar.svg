@@ -1,7 +1,10 @@
 <svg width="900" height="750" viewBox="0 0 900 750" xmlns="http://www.w3.org/2000/svg">
 <rect x="0" y="0" width="900" height="750" fill="#1F1D1D"/>
-<text font-size="18" x="796" y="5" dy="15" font-weight="bold" dominant-baseline="middle" font-family="Roboto" fill="#D8D9DA">
+<text font-size="24" x="767" y="5" dy="15" font-weight="bold" dominant-baseline="middle" font-family="Roboto" fill="#D8D9DA">
 Valor Dólar
+</text>
+<text font-size="18" x="320" y="35" dy="10" dominant-baseline="middle" font-family="Roboto" fill="#D8D9DA">
+Actualizado: 06.05.2024 18:14
 </text>
 <g>
 <line stroke-width="2" x1="10" y1="15" x2="35" y2="15" stroke="#7EB26D"/>
@@ -18,26 +21,26 @@ Venta
 </text>
 </g>
 <g stroke="#444343">
-<line stroke-width="1" x1="43" y1="40" x2="890" y2="40"/><line stroke-width="1" x1="43" y1="153.3" x2="890" y2="153.3"/><line stroke-width="1" x1="43" y1="266.7" x2="890" y2="266.7"/><line stroke-width="1" x1="43" y1="380" x2="890" y2="380"/><line stroke-width="1" x1="43" y1="493.3" x2="890" y2="493.3"/><line stroke-width="1" x1="43" y1="606.7" x2="890" y2="606.7"/>
+<line stroke-width="1" x1="43" y1="60" x2="890" y2="60"/><line stroke-width="1" x1="43" y1="170" x2="890" y2="170"/><line stroke-width="1" x1="43" y1="280" x2="890" y2="280"/><line stroke-width="1" x1="43" y1="390" x2="890" y2="390"/><line stroke-width="1" x1="43" y1="500" x2="890" y2="500"/><line stroke-width="1" x1="43" y1="610" x2="890" y2="610"/>
 </g>
 <g>
 
-<text font-size="14" x="7" y="45" font-family="Roboto" fill="#B9B8CE">
+<text font-size="14" x="7" y="65" font-family="Roboto" fill="#B9B8CE">
 1.4k
 </text>
-<text font-size="14" x="7" y="158.3" font-family="Roboto" fill="#B9B8CE">
+<text font-size="14" x="7" y="175" font-family="Roboto" fill="#B9B8CE">
 1.2k
 </text>
-<text font-size="14" x="11" y="271.7" font-family="Roboto" fill="#B9B8CE">
+<text font-size="14" x="11" y="285" font-family="Roboto" fill="#B9B8CE">
 960
 </text>
-<text font-size="14" x="11" y="385" font-family="Roboto" fill="#B9B8CE">
+<text font-size="14" x="11" y="395" font-family="Roboto" fill="#B9B8CE">
 720
 </text>
-<text font-size="14" x="11" y="498.3" font-family="Roboto" fill="#B9B8CE">
+<text font-size="14" x="11" y="505" font-family="Roboto" fill="#B9B8CE">
 480
 </text>
-<text font-size="14" x="11" y="611.7" font-family="Roboto" fill="#B9B8CE">
+<text font-size="14" x="11" y="615" font-family="Roboto" fill="#B9B8CE">
 240
 </text>
 <text font-size="14" x="27" y="725" font-family="Roboto" fill="#B9B8CE">
@@ -74,52 +77,52 @@ D�lar CCL GD30 48 hs
 D�lar turista
 </text>
 </g>
-<rect x="48" y="315.1" width="64.1" height="404.9" fill="#7EB26D"/>
-<rect x="189.2" y="238.3" width="64.1" height="481.7" fill="#7EB26D"/>
-<rect x="330.3" y="214.7" width="64.1" height="505.3" fill="#7EB26D"/>
-<rect x="471.5" y="315.9" width="64.1" height="404.1" fill="#7EB26D"/>
-<rect x="612.7" y="192.4" width="64.1" height="527.6" fill="#7EB26D"/>
-<rect x="753.8" y="72.1" width="64.1" height="647.9" fill="#7EB26D"/>
-<rect x="115.1" y="296.2" width="64.1" height="423.8" fill="#EAB839"/>
-<rect x="256.2" y="228.9" width="64.1" height="491.1" fill="#EAB839"/>
-<rect x="397.4" y="214.2" width="64.1" height="505.8" fill="#EAB839"/>
-<rect x="538.6" y="297" width="64.1" height="423" fill="#EAB839"/>
-<rect x="679.8" y="189" width="64.1" height="531" fill="#EAB839"/>
-<rect x="820.9" y="41.9" width="64.1" height="678.1" fill="#EAB839"/>
-<text font-size="14" x="80" y="315.1" dx="-18" dy="-8" font-family="Roboto" fill="#D8D9DA">
-857.5
+<rect x="48" y="326.3" width="64.1" height="393.7" fill="#7EB26D"/>
+<rect x="189.2" y="250.2" width="64.1" height="469.8" fill="#7EB26D"/>
+<rect x="330.3" y="232.2" width="64.1" height="487.8" fill="#7EB26D"/>
+<rect x="471.5" y="327.1" width="64.1" height="392.9" fill="#7EB26D"/>
+<rect x="612.7" y="213.4" width="64.1" height="506.6" fill="#7EB26D"/>
+<rect x="753.8" y="90.1" width="64.1" height="629.9" fill="#7EB26D"/>
+<rect x="115.1" y="308" width="64.1" height="412" fill="#EAB839"/>
+<rect x="256.2" y="241" width="64.1" height="479" fill="#EAB839"/>
+<rect x="397.4" y="232" width="64.1" height="488" fill="#EAB839"/>
+<rect x="538.6" y="308.8" width="64.1" height="411.2" fill="#EAB839"/>
+<rect x="679.8" y="206.2" width="64.1" height="513.8" fill="#EAB839"/>
+<rect x="820.9" y="60.7" width="64.1" height="659.3" fill="#EAB839"/>
+<text font-size="14" x="80" y="326.3" dx="-11.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+859
 </text>
-<text font-size="14" x="221.2" y="238.3" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1020
+<text font-size="14" x="221.2" y="250.2" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1025
 </text>
-<text font-size="14" x="362.4" y="214.7" dx="-20.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1070.1
+<text font-size="14" x="362.4" y="232.2" dx="-21.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1064.3
 </text>
-<text font-size="14" x="503.5" y="315.9" dx="-18" dy="-8" font-family="Roboto" fill="#D8D9DA">
-855.8
+<text font-size="14" x="503.5" y="327.1" dx="-17.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+857.3
 </text>
-<text font-size="14" x="644.7" y="192.4" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1117.2
+<text font-size="14" x="644.7" y="213.4" dx="-21.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1105.3
 </text>
-<text font-size="14" x="785.9" y="72.1" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1372
+<text font-size="14" x="785.9" y="90.1" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1374.4
 </text>
-<text font-size="14" x="147.1" y="296.2" dx="-18" dy="-8" font-family="Roboto" fill="#D8D9DA">
-897.5
+<text font-size="14" x="147.1" y="308" dx="-11.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+899
 </text>
-<text font-size="14" x="288.3" y="228.9" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1040
+<text font-size="14" x="288.3" y="241" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1045
 </text>
-<text font-size="14" x="429.5" y="214.2" dx="-20.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1071.1
+<text font-size="14" x="429.5" y="232" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1064.6
 </text>
-<text font-size="14" x="570.6" y="297" dx="-18" dy="-8" font-family="Roboto" fill="#D8D9DA">
-895.7
+<text font-size="14" x="570.6" y="308.8" dx="-18" dy="-8" font-family="Roboto" fill="#D8D9DA">
+897.2
 </text>
-<text font-size="14" x="711.8" y="189" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1124.4
+<text font-size="14" x="711.8" y="206.2" dx="-14.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1121
 </text>
-<text font-size="14" x="853" y="41.9" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1436
+<text font-size="14" x="853" y="60.7" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1438.4
 </text>
 </svg>

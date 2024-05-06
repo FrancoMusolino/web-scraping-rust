@@ -7,7 +7,7 @@ async fn main() -> std::io::Result<()> {
     let mut file_path = PathBuf::from(cwd);
     file_path.push("dolar.svg");
 
-    println!("Generando archivo en: {}", file_path.display());
+    println!("Generando archivo...");
 
     let start = Instant::now();
 
@@ -18,6 +18,7 @@ async fn main() -> std::io::Result<()> {
 
     let duration = start.elapsed();
     println!("Archivo generado en: {}ms", duration.as_millis());
+    println!("{}", file_path.display());
 
     Ok(())
 }

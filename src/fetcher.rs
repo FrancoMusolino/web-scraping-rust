@@ -10,9 +10,10 @@ pub trait ResponseMethods {
 #[async_trait]
 impl ResponseMethods for ReqwestResponse {
     async fn parse_to_text(self) -> Result<String, Box<dyn Error>> {
-        let text = self.text().await?;
+        let bytes = self.bytes().await?;
+        let body = String::from_utf8_lossy(&bytes).into_owned();
 
-        Ok(text)
+        Ok(body)
     }
 }
 

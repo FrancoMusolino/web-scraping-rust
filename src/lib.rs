@@ -23,6 +23,8 @@ pub async fn run() -> Result<(), Box<dyn Error>> {
     let mut dolar_buy_values: Vec<f32> = Vec::new();
     let mut dolar_sell_values: Vec<f32> = Vec::new();
 
+    let mut last_update: Option<String> = None;
+
     for fragment in fragments {
         let name_selector = Selector::parse(".name").unwrap();
         let name_texts = get_texts_from_fragment(&fragment, &name_selector);
@@ -39,6 +41,16 @@ pub async fn run() -> Result<(), Box<dyn Error>> {
         let sell_price = split_text(&sell_texts[0], '$')[1];
         let sell_price_as_float = FloatParser::from_arg_price(sell_price).unwrap_or_default();
         dolar_sell_values.push(sell_price_as_float);
+
+        if last_update.is_none() {
+            let last_update_selector = Selector::parse(".date").unwrap();
+            let last_update_texts = get_texts_from_fragment(&fragment, &last_update_selector);
+
+            match last_update_texts.get(0) {
+                Some(text) => last_update = Some(text.clone()),
+                _ => (),
+            }
+        }
     }
 
     let chart = json!({
@@ -50,6 +62,9 @@ pub async fn run() -> Result<(), Box<dyn Error>> {
             "right": 10
         },
         "title_text": "Valor Dólar",
+        "title_font_size": 24,
+        "sub_title_text": last_update.unwrap_or("Sin última fecha de actualización".to_string()),
+        "sub_title_font_size": 18,
         "title_align": "right",
         "legend_align": "left",
         "type": "horizontal_bar",
