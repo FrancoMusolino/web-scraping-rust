@@ -1,10 +1,10 @@
-<svg width="900" height="750" viewBox="0 0 900 750" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="900" height="750" fill="#1F1D1D"/>
-<text font-size="24" x="767" y="5" dy="15" font-weight="bold" dominant-baseline="middle" font-family="Roboto" fill="#D8D9DA">
+<svg width="1080" height="750" viewBox="0 0 1080 750" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="1080" height="750" fill="#1F1D1D"/>
+<text font-size="24" x="947" y="5" dy="15" font-weight="bold" dominant-baseline="middle" font-family="Roboto" fill="#D8D9DA">
 Valor Dólar
 </text>
-<text font-size="18" x="320" y="35" dy="10" dominant-baseline="middle" font-family="Roboto" fill="#D8D9DA">
-Actualizado: 06.05.2024 18:14
+<text font-size="18" x="411.5" y="35" dy="10" dominant-baseline="middle" font-family="Roboto" fill="#D8D9DA">
+Actualizado: 07.05.2024 13:51
 </text>
 <g>
 <line stroke-width="2" x1="10" y1="15" x2="35" y2="15" stroke="#7EB26D"/>
@@ -21,7 +21,7 @@ Venta
 </text>
 </g>
 <g stroke="#444343">
-<line stroke-width="1" x1="43" y1="60" x2="890" y2="60"/><line stroke-width="1" x1="43" y1="170" x2="890" y2="170"/><line stroke-width="1" x1="43" y1="280" x2="890" y2="280"/><line stroke-width="1" x1="43" y1="390" x2="890" y2="390"/><line stroke-width="1" x1="43" y1="500" x2="890" y2="500"/><line stroke-width="1" x1="43" y1="610" x2="890" y2="610"/>
+<line stroke-width="1" x1="43" y1="60" x2="1070" y2="60"/><line stroke-width="1" x1="43" y1="170" x2="1070" y2="170"/><line stroke-width="1" x1="43" y1="280" x2="1070" y2="280"/><line stroke-width="1" x1="43" y1="390" x2="1070" y2="390"/><line stroke-width="1" x1="43" y1="500" x2="1070" y2="500"/><line stroke-width="1" x1="43" y1="610" x2="1070" y2="610"/>
 </g>
 <g>
 
@@ -49,80 +49,80 @@ Venta
 </g>
 <g>
 <g stroke="#B9B8CE">
-<line stroke-width="1" x1="43" y1="720" x2="890" y2="720"/>
+<line stroke-width="1" x1="43" y1="720" x2="1070" y2="720"/>
 <line stroke-width="1" x1="43" y1="720" x2="43" y2="725"/>
-<line stroke-width="1" x1="184.2" y1="720" x2="184.2" y2="725"/>
-<line stroke-width="1" x1="325.3" y1="720" x2="325.3" y2="725"/>
-<line stroke-width="1" x1="466.5" y1="720" x2="466.5" y2="725"/>
-<line stroke-width="1" x1="607.7" y1="720" x2="607.7" y2="725"/>
-<line stroke-width="1" x1="748.8" y1="720" x2="748.8" y2="725"/>
-<line stroke-width="1" x1="890" y1="720" x2="890" y2="725"/>
+<line stroke-width="1" x1="214.2" y1="720" x2="214.2" y2="725"/>
+<line stroke-width="1" x1="385.3" y1="720" x2="385.3" y2="725"/>
+<line stroke-width="1" x1="556.5" y1="720" x2="556.5" y2="725"/>
+<line stroke-width="1" x1="727.7" y1="720" x2="727.7" y2="725"/>
+<line stroke-width="1" x1="898.8" y1="720" x2="898.8" y2="725"/>
+<line stroke-width="1" x1="1070" y1="720" x2="1070" y2="725"/>
 </g>
-<text font-size="14" x="71.6" y="739" font-family="Roboto" fill="#B9B8CE">
-D�LAR BNA
+<text font-size="14" x="89.1" y="739" font-family="Roboto" fill="#B9B8CE">
+DÓLAR BNA
 </text>
-<text font-size="14" x="209.2" y="739" font-family="Roboto" fill="#B9B8CE">
-D�LAR BLUE
+<text font-size="14" x="256.8" y="739" font-family="Roboto" fill="#B9B8CE">
+DÓLAR BLUE
 </text>
-<text font-size="14" x="352.9" y="739" font-family="Roboto" fill="#B9B8CE">
-D�LAR MEP
+<text font-size="14" x="430.4" y="739" font-family="Roboto" fill="#B9B8CE">
+DÓLAR MEP
 </text>
-<text font-size="14" x="481.6" y="739" font-family="Roboto" fill="#B9B8CE">
-D�lar mayorista
+<text font-size="14" x="575.6" y="739" font-family="Roboto" fill="#B9B8CE">
+DÓLAR MAYORISTA
 </text>
-<text font-size="14" x="601.8" y="739" font-family="Roboto" fill="#B9B8CE">
-D�lar CCL GD30 48 hs
+<text font-size="14" x="732.8" y="739" font-family="Roboto" fill="#B9B8CE">
+DÓLAR CCL GD30 48 HS
 </text>
-<text font-size="14" x="775.4" y="739" font-family="Roboto" fill="#B9B8CE">
-D�lar turista
+<text font-size="14" x="929.4" y="739" font-family="Roboto" fill="#B9B8CE">
+DÓLAR TURISTA
 </text>
 </g>
-<rect x="48" y="326.3" width="64.1" height="393.7" fill="#7EB26D"/>
-<rect x="189.2" y="250.2" width="64.1" height="469.8" fill="#7EB26D"/>
-<rect x="330.3" y="232.2" width="64.1" height="487.8" fill="#7EB26D"/>
-<rect x="471.5" y="327.1" width="64.1" height="392.9" fill="#7EB26D"/>
-<rect x="612.7" y="213.4" width="64.1" height="506.6" fill="#7EB26D"/>
-<rect x="753.8" y="90.1" width="64.1" height="629.9" fill="#7EB26D"/>
-<rect x="115.1" y="308" width="64.1" height="412" fill="#EAB839"/>
-<rect x="256.2" y="241" width="64.1" height="479" fill="#EAB839"/>
-<rect x="397.4" y="232" width="64.1" height="488" fill="#EAB839"/>
-<rect x="538.6" y="308.8" width="64.1" height="411.2" fill="#EAB839"/>
-<rect x="679.8" y="206.2" width="64.1" height="513.8" fill="#EAB839"/>
-<rect x="820.9" y="60.7" width="64.1" height="659.3" fill="#EAB839"/>
-<text font-size="14" x="80" y="326.3" dx="-11.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+<rect x="48" y="326.3" width="79.1" height="393.7" fill="#7EB26D"/>
+<rect x="219.2" y="252.5" width="79.1" height="467.5" fill="#7EB26D"/>
+<rect x="390.3" y="236.9" width="79.1" height="483.1" fill="#7EB26D"/>
+<rect x="561.5" y="327.1" width="79.1" height="392.9" fill="#7EB26D"/>
+<rect x="732.7" y="219.3" width="79.1" height="500.7" fill="#7EB26D"/>
+<rect x="903.8" y="90.1" width="79.1" height="629.9" fill="#7EB26D"/>
+<rect x="130.1" y="308" width="79.1" height="412" fill="#EAB839"/>
+<rect x="301.2" y="243.3" width="79.1" height="476.7" fill="#EAB839"/>
+<rect x="472.4" y="236.5" width="79.1" height="483.5" fill="#EAB839"/>
+<rect x="643.6" y="308.8" width="79.1" height="411.2" fill="#EAB839"/>
+<rect x="814.8" y="216.5" width="79.1" height="503.5" fill="#EAB839"/>
+<rect x="985.9" y="60.7" width="79.1" height="659.3" fill="#EAB839"/>
+<text font-size="14" x="87.5" y="326.3" dx="-11.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
 859
 </text>
-<text font-size="14" x="221.2" y="250.2" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1025
+<text font-size="14" x="258.7" y="252.5" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1020
 </text>
-<text font-size="14" x="362.4" y="232.2" dx="-21.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1064.3
+<text font-size="14" x="429.9" y="236.9" dx="-20.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1054.1
 </text>
-<text font-size="14" x="503.5" y="327.1" dx="-17.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+<text font-size="14" x="601" y="327.1" dx="-17.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
 857.3
 </text>
-<text font-size="14" x="644.7" y="213.4" dx="-21.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1105.3
+<text font-size="14" x="772.2" y="219.3" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1092.5
 </text>
-<text font-size="14" x="785.9" y="90.1" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
+<text font-size="14" x="943.4" y="90.1" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
 1374.4
 </text>
-<text font-size="14" x="147.1" y="308" dx="-11.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
+<text font-size="14" x="169.6" y="308" dx="-11.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
 899
 </text>
-<text font-size="14" x="288.3" y="241" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1045
+<text font-size="14" x="340.8" y="243.3" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1040
 </text>
-<text font-size="14" x="429.5" y="232" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1064.6
+<text font-size="14" x="512" y="236.5" dx="-16" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1055
 </text>
-<text font-size="14" x="570.6" y="308.8" dx="-18" dy="-8" font-family="Roboto" fill="#D8D9DA">
+<text font-size="14" x="683.1" y="308.8" dx="-18" dy="-8" font-family="Roboto" fill="#D8D9DA">
 897.2
 </text>
-<text font-size="14" x="711.8" y="206.2" dx="-14.5" dy="-8" font-family="Roboto" fill="#D8D9DA">
-1121
+<text font-size="14" x="854.3" y="216.5" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
+1098.6
 </text>
-<text font-size="14" x="853" y="60.7" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
+<text font-size="14" x="1025.5" y="60.7" dx="-22" dy="-8" font-family="Roboto" fill="#D8D9DA">
 1438.4
 </text>
 </svg>

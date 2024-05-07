@@ -28,7 +28,7 @@ pub async fn run() -> Result<(), Box<dyn Error>> {
     for fragment in fragments {
         let name_selector = Selector::parse(".name").unwrap();
         let name_texts = get_texts_from_fragment(&fragment, &name_selector);
-        dolar_names.push(name_texts.first().unwrap().clone());
+        dolar_names.push(name_texts.get(0).unwrap().to_uppercase().replace("�", "Ó"));
 
         let buy_selector = Selector::parse(".buy").unwrap();
         let buy_texts = get_texts_from_fragment(&fragment, &buy_selector); // ["Compra$1.371,20"] -> response
@@ -54,7 +54,7 @@ pub async fn run() -> Result<(), Box<dyn Error>> {
     }
 
     let chart = json!({
-        "width": 900,
+        "width": 1080,
         "height": 750,
         "margin": {
             "left": 10,
